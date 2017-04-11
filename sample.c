@@ -1,11 +1,5 @@
-#include<stdio.h>
+#include <stdio.h>
 void main()
 {
-int a,b,s;
-printf("Enter the 1st no:");
-scanf("%d",&a);
-printf("Enter the 2nd no:");
-scanf("%d",&b);
-s=a+b;
-printf("The sum is %d\n",s);
+printf("pLEASE dOWNLOAD THE gAME NINVADERS \n nInvaders is a terminal version of popular GUI Space invaders game, here, players have to defend the earth from Space invaders by controlling war ships at the bottom of the screen (earth).\n for install type sudo apt-get install ninvaders ,,for run type ninvaders in terminal.Hope Enjoy it..");
 }
